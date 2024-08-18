@@ -336,7 +336,7 @@
             method: "POST",
             headers: {
               "Content-Type": "application/json",
-              Authorization: `Bearer sk-newsletter-pro-chatbot-eBgrhZ0TmYhPzOWhHVh3T3BlbkFJPSDsEtCA0EayoONNgckd`,
+              Authorization: `Bearer `,
             },
             body: JSON.stringify(data),
           });
